@@ -30,6 +30,7 @@ p {
   color: #828282;
   font-size: 15px;
   margin-bottom: 64px;
+  line-height: 22px;
 }
 
 p span {
@@ -45,7 +46,7 @@ p span {
 
 a {
   font-size: 15px;
-  color: #828282;
+  color: #3f3d56;
   margin-bottom: 57px;
 }
 
